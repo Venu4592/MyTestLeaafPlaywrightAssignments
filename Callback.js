@@ -11,5 +11,6 @@ function checkBrowserVersion(callback){
 function logBrowserVersion(browserName){
     console.log("Browser Version: ",browserName)
 }
-
+// Calling the function with callback function
 checkBrowserVersion(logBrowserVersion)
+
