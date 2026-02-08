@@ -14,3 +14,4 @@ function logBrowserVersion(browserName){
 // Calling the function with callback function
 checkBrowserVersion(logBrowserVersion)
 
+
